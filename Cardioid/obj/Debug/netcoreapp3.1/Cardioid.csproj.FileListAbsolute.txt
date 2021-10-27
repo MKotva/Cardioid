@@ -1,0 +1,16 @@
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\bin\Debug\netcoreapp3.1\Cardioid.exe
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\bin\Debug\netcoreapp3.1\Cardioid.deps.json
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\bin\Debug\netcoreapp3.1\Cardioid.runtimeconfig.json
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\bin\Debug\netcoreapp3.1\Cardioid.runtimeconfig.dev.json
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\bin\Debug\netcoreapp3.1\Cardioid.dll
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\bin\Debug\netcoreapp3.1\Cardioid.pdb
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.csproj.AssemblyReference.cache
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Carcioid.Form1.resources
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.csproj.GenerateResource.cache
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.AssemblyInfoInputs.cache
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.AssemblyInfo.cs
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.csproj.CoreCompileInputs.cache
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.dll
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.pdb
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.genruntimeconfig.cache
+C:\Users\MAIN\source\repos\Cardioid\Cardioid\obj\Debug\netcoreapp3.1\Cardioid.Properties.Resources.resources

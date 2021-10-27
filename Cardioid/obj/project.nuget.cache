@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2KRal9jcwXzb0B0E8YFZmegLwgbFAeoTV9AhVHZspAHE/XYTR1muKyjqA732UnsXuWzxC5seFqBZsXFsYYTkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAIN\\source\\repos\\Cardioid\\Cardioid\\Cardioid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
