@@ -1,2 +1,2 @@
 # Cardioid
-Draw a hearth of mathematic (Cardioid).
+Draw a hearth of mathematics (Cardioid).
