@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -37,12 +38,16 @@ namespace Carcioid
             {
                 _focusCount = Convert.ToDouble(focusCountTextBox.Text);
             }
-            
+
             if(SizeTextBox.Text != "")
             {
                 var size = Convert.ToInt32(SizeTextBox.Text);
                 if (size > 100 && size != _cardioid._canvas.Width)
+                {
                     _cardioid = new Cardioid(size);
+                    if (_isRandomColor)
+                        _cardioid.SetChanging();
+                }
             }
 
             while (IsPlaying)
@@ -54,7 +59,7 @@ namespace Carcioid
                 {
                     Save(bitmap);
                 }
-                await Task.Delay(10);
+                await Task.Delay(5);
             }
         }
 
@@ -133,7 +138,7 @@ namespace Carcioid
 
         private void Save(Bitmap bitmap)
         {
-            bitmap.Save(String.Format("{0}.jpg", _fileIndex));
+            bitmap.Save(String.Format("{0}.png", _fileIndex), ImageFormat.Png);
             _fileIndex++;
         }
 

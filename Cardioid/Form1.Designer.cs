@@ -54,7 +54,7 @@ namespace Carcioid
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(945, 669);
+            this.pictureBox1.Size = new System.Drawing.Size(945, 961);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -205,7 +205,7 @@ namespace Carcioid
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(945, 669);
+            this.ClientSize = new System.Drawing.Size(945, 961);
             this.Controls.Add(this.SizeTextBox);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.SaveCheckBox);

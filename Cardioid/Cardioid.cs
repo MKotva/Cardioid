@@ -38,7 +38,6 @@ namespace Carcioid
             _rnd = new Random();
             _finalColor = _colorList[_rnd.Next(0, _colorList.Length)];
             _actualColor = _colorList[_rnd.Next(0, _colorList.Length)];
-            _isColorChanging = false;
         }
 
         /// <summary>
